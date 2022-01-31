@@ -1,2 +1,2 @@
-# Solidity.sol
+# Solidity
 Solidity
